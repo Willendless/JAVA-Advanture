@@ -2,4 +2,4 @@
 
 My Java adventure
 
-+ [Code exercises](thinking/README.md) for *Thinking in Java*
++ [Code exercises](thinking/) for *Thinking in Java*
