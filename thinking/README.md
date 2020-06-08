@@ -1,7 +1,7 @@
 # Thinking in Java Study
 
-+ code is placed in [code](code\)
-+ my notes is placed in [notes](notes\)
++ code is placed in [code](./code/)
++ my notes is placed in [notes](./notes/)
 
 ## current process
 
@@ -12,4 +12,4 @@
 - [ ] *Ch19 枚举类型*
 - [ ] *Ch20 注解*
 - [ ] *Ch21 并发*
-- [ ] *Ch22 图形化用户界面*
+- [ ] *[Ch22 图形化用户界面](./notes/Ch22-图形化用户界面.md)*
