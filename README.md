@@ -2,4 +2,6 @@
 
 My Java adventure
 
-+ [Code exercises](thinking/) for *Thinking in Java*
++ [Notes and code exercises](thinking/) for *Thinking in Java*
++ [Notes and hw code](tutorial/) for *[Java tutorial]*
++ [Notes and code](ds/) for *Algorithms 4th*
